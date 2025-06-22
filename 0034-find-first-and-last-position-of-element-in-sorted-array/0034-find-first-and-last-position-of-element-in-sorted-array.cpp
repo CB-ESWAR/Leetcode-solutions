@@ -1,15 +1,31 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        vector <int> hi(2);
-        hi[0]=-1;
-        hi[1]=-1;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==target){hi[0]=i;break;}
+    vector<int> searchRange(const vector<int>& arr, int x) {
+        //eswar
+        int n = arr.size();
+        int low = 0, high = n - 1;
+        int lower = -1, upper =n;
+        while (low <= high) {
+            int mid = (low + high) / 2;
+            if (arr[mid] >= x) {
+                lower = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
+            }
         }
-        for(int i=nums.size()-1;i>=0;i--){
-            if(nums[i]==target){hi[1]=i;break;}
+        low = 0, high = n - 1;
+        while (low <= high) {
+            int mid = (low + high) / 2;
+            if (arr[mid] > x) {
+                upper = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
+            }
         }
-        return hi;
+        if (lower == -1 || arr[lower] != x)
+            return {-1, -1};
+        return {lower, upper-1 };
     }
 };
