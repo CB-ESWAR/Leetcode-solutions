@@ -1,5 +1,5 @@
-# https-github.com-CB-ESWAR-leetcode-solutions-
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+Leetcode_solutions
+A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
