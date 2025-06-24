@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<int> findKDistantIndices(vector<int>& nums, int key, int k) {
         int n = nums.size();
+        //eswar
         vector<int> arr;
         for (int i = 0; i < n; i++) {
             if (nums[i] == key) {
