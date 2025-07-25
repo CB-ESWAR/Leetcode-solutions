@@ -14,7 +14,6 @@ public:
                 hi.push_back(i);
             }
         }
-        int neg_sum=INT_MAX;
         if(count==n){
            sort(nums.begin(),nums.end());
            return nums[n-1];
