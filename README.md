@@ -20,6 +20,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0036-valid-sudoku) |
 | [0162-find-peak-element](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0162-find-peak-element) |
@@ -59,6 +60,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
