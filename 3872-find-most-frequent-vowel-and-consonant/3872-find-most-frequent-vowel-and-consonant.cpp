@@ -1,4 +1,5 @@
-/*class Solution {
+/*BRUTE FORCE
+class Solution {
 public:
     int maxFreqSum(string s) {
         string s1="",s2="";
@@ -23,6 +24,8 @@ public:
       return ans;
     }
 };*/
+//OPTIMIZED APPROACH
+//ESWAR
 class Solution {
 public:
     int maxFreqSum(string s) {
