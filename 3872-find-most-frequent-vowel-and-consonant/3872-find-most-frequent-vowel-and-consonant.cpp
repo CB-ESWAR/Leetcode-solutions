@@ -33,7 +33,7 @@ public:
             freq[s[i]]++;
             max_vowel=max(freq[s[i]],max_vowel);
           }
-          if(s[i]!='a' && s[i]!='e' && s[i]!='o' && s[i]!='i' && s[i]!='u'){
+          else{
             freq[s[i]]++;
              max_con=max(freq[s[i]],max_con);
           }
