@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     int maxFreqSum(string s) {
         string s1="",s2="";
@@ -22,4 +22,26 @@ public:
       int ans=max_vowel+max_con;
       return ans;
     }
+};*/
+class Solution {
+public:
+    int maxFreqSum(string s) {
+        unordered_map <char,int> freq;
+        int max_vowel=0,max_con=0;
+        for(int i=0;i<s.size();i++){
+          if(s[i]=='a' || s[i]=='e' || s[i]=='o' || s[i]=='i' || s[i]=='u'){
+            freq[s[i]]++;
+            max_vowel=max(freq[s[i]],max_vowel);
+          }
+          if(s[i]!='a' && s[i]!='e' && s[i]!='o' && s[i]!='i' && s[i]!='u'){
+            freq[s[i]]++;
+             max_con=max(freq[s[i]],max_con);
+          }
+        }
+        
+      int ans=max_vowel+max_con;
+      return ans;
+    }
 };
+
+
