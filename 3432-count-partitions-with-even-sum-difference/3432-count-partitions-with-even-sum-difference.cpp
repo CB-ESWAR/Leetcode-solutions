@@ -1,6 +1,7 @@
 class Solution {
 public:
     int countPartitions(vector<int>& nums){
+        //ESWAR
         int count=0;
         int n=nums.size();
         int sub1_sum=0;
