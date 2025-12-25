@@ -54,6 +54,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -69,6 +70,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1903-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -81,6 +83,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | [1018-largest-perimeter-triangle](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1018-largest-perimeter-triangle) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search
 |  |
