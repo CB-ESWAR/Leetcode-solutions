@@ -49,6 +49,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | [0940-fruit-into-baskets](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0940-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1018-largest-perimeter-triangle) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -96,6 +97,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | [0162-find-peak-element](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0540-single-element-in-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0036-valid-sudoku) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |
