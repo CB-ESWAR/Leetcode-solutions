@@ -164,6 +164,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | [1903-largest-odd-number-in-string](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1903-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2288-count-operations-to-obtain-zero) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -199,6 +200,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | [0203-remove-linked-list-elements](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 ## Number Theory
 |  |
 | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
