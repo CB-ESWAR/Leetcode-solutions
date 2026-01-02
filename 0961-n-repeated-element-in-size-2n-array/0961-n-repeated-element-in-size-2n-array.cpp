@@ -2,14 +2,13 @@ class Solution {
 public:
     int repeatedNTimes(vector<int>& nums) {
         unordered_map<int,int> freq;
-        for(auto x:nums)freq[x]++;
-        int ans=0;
-        for(int x:nums){
+        for(auto x:nums){
+            freq[x]++;
             if(freq[x]==nums.size()/2){
-                ans=x;
+                return x;
                 break;
             }
         }
-        return ans;
+        return 1;
     }
 };
