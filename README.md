@@ -200,6 +200,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | ------- |
 | [0190-reverse-bits](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0231-power-of-two) |
+| [0693-binary-number-with-alternating-bits](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0693-binary-number-with-alternating-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
