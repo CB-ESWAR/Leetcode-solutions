@@ -50,6 +50,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | [0042-trapping-rain-water](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0198-house-robber) |
@@ -191,6 +192,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | [0013-roman-to-integer](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0231-power-of-two) |
 | [0830-largest-triangle-area](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0830-largest-triangle-area) |
 | [0877-stone-game](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0877-stone-game) |
@@ -295,6 +297,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1021-remove-outermost-parentheses](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
