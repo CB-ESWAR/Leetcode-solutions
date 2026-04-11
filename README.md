@@ -170,6 +170,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Sliding Window
@@ -248,6 +249,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0203-remove-linked-list-elements) |
@@ -332,6 +334,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
@@ -405,4 +408,8 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0207-course-schedule) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
