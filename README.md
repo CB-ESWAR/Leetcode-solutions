@@ -82,6 +82,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3074-apple-redistribution-into-boxes](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -170,6 +171,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3719-longest-balanced-subarray-i](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -233,6 +235,7 @@ A daily drop of LeetCode wisdom — clean code, sharp logic, zero excuses. - Cre
 | [0268-missing-number](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/1009-complement-of-base-10-integer) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/CB-ESWAR/https-github.com-CB-ESWAR-leetcode-solutions-/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
