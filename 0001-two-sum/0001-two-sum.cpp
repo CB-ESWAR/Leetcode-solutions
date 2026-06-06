@@ -5,7 +5,7 @@ public:
         int n=nums.size();
         for(int i=0;i<n;i++){
             int hi=target-nums[i];
-            if(map.find(hi)!=mp.end())return {mp[hi],i};
+            if(map.find(hi)!=map.end())return {map[hi],i};
             mp[nums[i]]=i;
         }
         return {};
