@@ -2,12 +2,12 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         int n=nums.size();
-        for(int i=0;i<n;i++){
-            int sum=1;
-            for(int j=i+1;j<n;j++){
-                if(nums[i]==nums[j])sum++;
+        for(int ele:nums){
+            int freq=0;
+            for(int val:nums){
+                if(ele==val)freq++;
             }
-           if(sum>n/2)return nums[i];
+            if(freq>n/2)return ele;
         }
         return 0;
     }
